@@ -20,7 +20,7 @@ setuptools.setup(
 		"slycot",
 		"future",
 		"casadi"),
-	classifiers=(
+	classifiers={
 		"Development Status :: 4 - Beta",
 		"Intended Audience :: Education",
 		"Intended Audience :: Science/Research",
@@ -33,5 +33,5 @@ setuptools.setup(
 		"Programming Language :: Python :: 3.9",
 		"Programming Language :: Python :: 3.10",
 		"Operating System :: OS Independent",
-	),
+	},
 )
